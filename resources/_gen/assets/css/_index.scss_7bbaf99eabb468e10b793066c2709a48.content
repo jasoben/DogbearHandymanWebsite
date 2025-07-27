@@ -578,6 +578,8 @@ table {
     padding-top: 20px; }
   #blog-logo {
     max-height: 80px; }
+  .vertical {
+    padding-top: 170px; }
   .inner,
   .pagination {
     width: auto;
@@ -592,6 +594,15 @@ table {
   #site-head {
     padding: 10% 0;
     height: 65%; }
+    #site-head .inner .blog-title {
+      font-size: 2.5rem; }
+    #site-head .inner .blog-description {
+      font-size: 1.5rem;
+      line-height: 1em; }
+    #site-head .inner #header-arrow {
+      font-size: 20px; }
+    #site-head .inner a.btn {
+      padding: 5px 20px; }
   #header-arrow {
     display: none; }
   a.btn {

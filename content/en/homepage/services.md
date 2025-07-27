@@ -14,10 +14,13 @@ Dogbear Handyman Services serves Charlottesville and surrounding areas. We offer
 - Home maintenance
 - Interior improvements
 - Technology / wifi / smart-home consultation
+- Custom digital fabrication (e.g. 3D printed replacement knobs)
+- Home organization planning
+- Appliance research and purchase recommendations
 - Whole-house survey
 
 ### Whole-house survey
 We offer for a flat fee, based on home size, a comprehensive survey of all systems and elements of a house. Please note this is not a certified home inspection, which requires a specific license, nor is it a replacement for specialized service inspections such as those provided by HVAC technicians. 
 
-The whole-house survey will give you a holistic sense of what areas of your house might need attention, from us or other service teams. If the work can be done by us, then we will include estimates for cost. 
+The whole-house survey will give you a holistic sense of what areas of your house might need attention, from us or other service teams. If the work can be done by us, then we will optionally include estimates for cost. 
 

@@ -101,6 +101,9 @@
   #blog-logo {
     max-height: 80px;
   }
+	.vertical {
+		padding-top:170px;
+	}
 
   .inner,
   .pagination {
@@ -120,6 +123,22 @@
   #site-head {
     padding: 10% 0;
     height: 65%;
+	.inner {
+		.blog-title {
+			font-size:2.5rem;
+		}
+		.blog-description {
+			font-size:1.5rem;
+			line-height:1em;
+		}
+		#header-arrow {
+			font-size:20px;
+		}
+		a.btn {
+			padding:5px 20px;
+		}
+	}
+	
   }
 
   #header-arrow {
