@@ -2,13 +2,8 @@
 title: "Welcome"
 weight: 1
 ---
+![Pride Flag](/images/flags.png)
 
-`Hugo-Scroll` theme alternates colors of sections that are placed on single page.
-The landing screen is meant to be visually striking.
+Welcome to Dogbear Handyman Services. We believe everybody deserves reliable, thorough, and precise handyman services. 
 
-Single-page approach is oriented towards small to medium content length, that won't overwhelm the user.
-You can also delegate lengthier, less important or more sizeable content to [dedicated pages](services).
-
-> The belly rules the mind. --- spanish proverb
-
-By the way this welcome section won't show in the cover menu.
+If you would like to become a new client, please fill out this brief form to let us know your needs.

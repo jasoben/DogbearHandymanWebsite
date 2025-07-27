@@ -39,15 +39,5 @@
                 />
   </url><url>
     <loc>http://localhost:1313/de/legal/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/legal/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/legal/"
-                />
   </url>
 </urlset>

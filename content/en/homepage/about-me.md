@@ -4,18 +4,12 @@ weight: 3
 header_menu: true
 ---
 
-<!-- 
-Neither embedded figure shortcode, nor Markdown hook were able to render image from asset. 
-You would have to .Resouces.GetMatch via custom shortcode.
-![Jane Doe](/images/asset-happy-ethnic-woman-sitting-at-table-with-laptop-3769021.jpg) 
--->
-![Jane Doe](/images/static-happy-ethnic-woman-sitting-at-table-with-laptop-3769021.jpg)
-See DE language for more examples of image management. There are multiple approaches.
+Dogbear Handyman Services is owned and operated by Jason Bennett. Jason has lived in the Charlottesville area since 1983, attending the local schools from Crozet Elementary up through UVA. When he isn't handyman-ing, Jason volunteers for the [Charlottesville Tool Library](https://cvilletoollibrary.com), the [Nelson County SPCA](https://nelsonspca.org/), mountain bikes, rock climbs, plays drums in the local band [Luchadora](https://soundcloud.com/vivaluchadora), and hangs out with the world's goofiest German Shepherd, the Dogbear herself. 
 
-##### Professional Experience
+### Who is Dogbear?
+Dogbear is Ursa the German Shepherd. Jason adopted Ursa in 2019 after finding her on Petfinder via the [Mary Ann Morris Animal Society (M.A.M.A.S. Foundation and Rescue)](https://www.maryannmorrisanimalsociety.org/) where her name was "Fantastic Fraulein". As an avid fan of astronomy and the local black bears who were frequent visitors at his rural childhood home, Jason knew her name had to be Ursa. 
 
-A lot, but let us get into the details with some lorem ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent feugiat lectus et magna placerat tincidunt. Nullam sit amet lectus vitae elit mollis rhoncus non eget lorem. Ut tempor sed dui quis volutpat.
+While Jason is the brains of the operation, Ursa is its namesake as well as its chief canine diplomat. 
 
-----
-
-In ultrices, est at lobortis pretium, magna quam mollis neque, id viverra odio est sit amet lorem. Mauris efficitur nunc vel lectus porttitor, sit amet sodales quam eleifend. Duis et felis ut mauris dignissim efficitur. Aliquam non sem eros. Integer elit ante, bibendum id hendrerit vitae, vestibulum eget risus. Nunc efficitur nisl in iaculis vestibulum.
+![](/images/ursa.jpg)
+Ursa with two of her favorite things: a ball, and life-giving water (listed in order of importance, of course)
