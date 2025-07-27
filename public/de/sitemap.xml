@@ -2,42 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/de/</loc>
+    <loc>http://localhost:55092/de/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/"
+                href="http://localhost:55092/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://example.com/de/"
+                href="http://localhost:55092/de/"
                 />
   </url><url>
-    <loc>https://example.com/de/license/</loc>
+    <loc>http://localhost:55092/de/license/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/license/"
+                href="http://localhost:55092/license/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://example.com/de/license/"
+                href="http://localhost:55092/de/license/"
                 />
   </url><url>
-    <loc>https://example.com/de/services/</loc>
+    <loc>http://localhost:55092/de/services/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/services/"
+                href="http://localhost:55092/services/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://example.com/de/services/"
+                href="http://localhost:55092/de/services/"
                 />
   </url><url>
-    <loc>https://example.com/de/legal/</loc>
+    <loc>http://localhost:55092/de/legal/</loc>
   </url>
 </urlset>
