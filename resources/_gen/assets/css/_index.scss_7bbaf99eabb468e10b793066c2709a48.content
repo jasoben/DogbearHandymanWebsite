@@ -595,7 +595,7 @@ table {
     padding: 10% 0;
     height: 65%; }
     #site-head .inner .blog-title {
-      font-size: 2.5rem; }
+      font-size: 2.3rem; }
     #site-head .inner .blog-description {
       font-size: 1.3rem;
       line-height: 1em; }
