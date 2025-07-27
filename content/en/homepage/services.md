@@ -1,7 +1,7 @@
 ---
 title: "The Services We Offer"
 header_menu_title: "Services"
-navigation_menu_title: "My Services"
+navigation_menu_title: "Our Services"
 weight: 2
 header_menu: true
 ---
