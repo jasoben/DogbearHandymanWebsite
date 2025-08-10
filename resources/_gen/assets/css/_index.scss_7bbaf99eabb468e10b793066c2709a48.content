@@ -188,7 +188,8 @@ a.btn-green {
   background: #22353a;
   padding: 10px;
   border-radius: 5px;
-  color: white; }
+  color: white;
+  text-decoration: none; }
 
 a.btn-green:hover {
   background: #3b5e67; }
