@@ -189,6 +189,16 @@ a.fn-item {
   }
 }
 
+a.btn-green {
+  background: #22353a;
+  padding: 10px;
+  border-radius: 5px;
+  color: white;
+}
+
+a.btn-green:hover {
+  background: #3b5e67;
+}
 .post-holder {
   width: 100%;
   height: 100%;

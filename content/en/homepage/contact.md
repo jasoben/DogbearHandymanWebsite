@@ -1,9 +1,7 @@
 ---
-title: "Contact"
+title: "Reviews"
 weight: 4
 header_menu: true
 ---
 
-{{<contact_list>}}
-
-Let us get in touch!
+Please [visit our Google Business Page](https://maps.app.goo.gl/t9dsACFLPTcxPLsu6) to read or write reviews.
