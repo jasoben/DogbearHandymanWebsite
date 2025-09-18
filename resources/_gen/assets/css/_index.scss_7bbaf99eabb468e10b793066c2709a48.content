@@ -189,7 +189,12 @@ a.btn-green {
   padding: 10px;
   border-radius: 5px;
   color: white;
-  text-decoration: none; }
+  text-decoration: none;
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-top: 20px;
+  display: inline-block;
+  text-align: center; }
 
 a.btn-green:hover {
   background: #3b5e67; }
