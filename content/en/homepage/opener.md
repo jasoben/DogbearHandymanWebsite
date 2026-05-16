@@ -8,7 +8,7 @@ Welcome to Dogbear Handyman Services. We believe everybody deserves reliable, re
 
 If you would like to become a new client, please fill out this brief form to let us know your needs. We give free estimates after an initial visit. 
 
-<a href="https://airtable.com/appA0YZgne3IHqodd/pagvpDyI3X7sKzGBU/form" class="btn-green">Submit new client request form</a> <br/><br/>
+<a href="https://jasonbennettuva.notion.site/36265198e9ce80019f25e17e68405b94?pvs=105" class="btn-green">Submit new client request form</a> <br/><br/>
 
 Existing clients please contact us via the contact info we shared with you.
 
